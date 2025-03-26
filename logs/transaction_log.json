@@ -1,0 +1,78 @@
+[
+    {
+        "timestamp": "2025-03-26T12:15:44.534571",
+        "input_file": "data/city_demand.csv",
+        "capacity_file": "data/power_grid.csv",
+        "recommended_locations": [
+            [
+                43.9537,
+                -78.8717
+            ],
+            [
+                43.932500000000005,
+                -78.8575
+            ],
+            [
+                43.9428,
+                -78.89335
+            ]
+        ]
+    },
+    {
+        "timestamp": "2025-03-26T12:30:51.904324",
+        "input_file": "data/city_demand.csv",
+        "capacity_file": "data/power_grid.csv",
+        "recommended_locations": [
+            [
+                43.65604513571429,
+                -79.5619297834125
+            ],
+            [
+                54.2820009,
+                -0.40118679999999074
+            ],
+            [
+                43.6563221,
+                -79.3809161
+            ]
+        ]
+    },
+    {
+        "timestamp": "2025-03-26T12:37:42.296501",
+        "input_file": "data/city_demand.csv",
+        "capacity_file": "data/power_grid.csv",
+        "recommended_locations": [
+            [
+                43.7543217,
+                -79.44910565950553
+            ],
+            [
+                43.60949307894737,
+                -79.61537278947368
+            ],
+            [
+                43.69355875357143,
+                -79.34752518760772
+            ]
+        ]
+    },
+    {
+        "timestamp": "2025-03-26T12:41:53.834197",
+        "input_file": "data/city_demand.csv",
+        "capacity_file": "data/power_grid.csv",
+        "recommended_locations": [
+            [
+                43.7543217,
+                -79.44910565950553
+            ],
+            [
+                43.60949307894737,
+                -79.61537278947368
+            ],
+            [
+                43.69355875357143,
+                -79.34752518760772
+            ]
+        ]
+    }
+]
